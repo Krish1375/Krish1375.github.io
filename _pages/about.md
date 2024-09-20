@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Krish
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
